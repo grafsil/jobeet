@@ -1,3 +1,6 @@
 *.class
 *.pyc
 *.pyo
+cache/
+log/
+lib/vendor/symfony/
